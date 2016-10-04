@@ -28,3 +28,10 @@ If you have an idea to use ICT to implement the SDGs and need help getting start
 If you would like to collaborate with like-minded people to build a more equitable, prosperous, and sustainable world.
 
 <a class="btn btn-default" href="https://unite.un.org/ideas/contact" role="button">CONTACT US</a>
+
+<hr>
+
+<a href="https://unite.un.org/opensource">
+    <img src="{{ site.baseurl }}/img/opensource_web_banner.jpg" alt="Unite Open Source">
+</a>
+<span class="caption text-muted">The ICT4SGD website is a project of Unite Open Source, an initiative of the UN Office of Information and Communications Technology.</span>
