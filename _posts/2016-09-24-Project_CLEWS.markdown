@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "Climate Land Energy Water Strategies"
+subtitle:   "Optimization Tools"
+repository: "CLEWS_software"
+date:       2016-09-24 12:00:00
+author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+
+---
+Project Objective
+------------
+
+This project aims to promote the design of software tools for modelling and simulation of scenarios to see the interactions between climate-change, land usage, and water usage overtime to assist policy planners. 
+
+A theoretical framework for this project was developed by the UN Department of Economic and Social Affairs and the KTH Royal Institute of Technology. See:
+
+- [DESA Modelling Tools for Sustainable Development](https://unite.un.org/sites/unite.un.org/files/app-globalclews-v-1-0/landingpage.html)
+
+- [OSeMOSYS](http://www.osemosys.org/)
+
+
+Project Team
+------------
+
+<a href="http://www.infoseeking.org/">
+    <img src="{{ site.baseurl }}/img/rutgers_infoseeking_logo.png" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">The InfoSeeking Lab at the School of Communication & Information - Rutgers University</span>
+
+
+**Dr. Chirag Shah - Rutgers University**
+
+Associate Professor of Information Science
+
+Affiliate member of Computer Science
+
+
+
+**Souvick Ghosh - Rutgers University**
+
+PhD student - Information Science
+
+
+
+**Jiqun Liu - Rutgers University**
+
+PhD student - Information Science
+
+
+
+**SeoYoon Sung - Rutgers University**
+
+PhD student - Information Science
+
+
+
+**Yiwei Wang - Rutgers University**
+
+PhD student - Information Science
+
