@@ -15,18 +15,14 @@ This project analyses text from thousands of UN official documents as well as GA
 - How are they adopted by UN Member States?
 
 
-Data sources
-------------
-
-This project relies on these data sources:
-
-- The [Official UN documents](https://search.un.org)
-
-- The [GA voting records](http://unbisnet.un.org:8080/ipac20/ipac.jsp?profile=voting)
-
-
 Project Team
 ------------
+
+<a href="http://www.infoseeking.org/">
+    <img src="{{ site.baseurl }}/img/rutgers_infoseeking_logo.png" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">The InfoSeeking Lab at the School of Communication & Information - Rutgers University</span>
+
 
 **Dr. Chirag Shah - Rutgers University**
 
@@ -51,10 +47,4 @@ PhD student - Information Science
 **Kevin Albertson - Rutgers University**
 
 Master's student - Computer Science and Mathematics
-
-
-<a href="http://www.infoseeking.org/">
-    <img src="{{ site.baseurl }}/img/rutgers_infoseeking_logo.png" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">The InfoSeeking Lab at the School of Communication & Information - Rutgers University</span>
 
