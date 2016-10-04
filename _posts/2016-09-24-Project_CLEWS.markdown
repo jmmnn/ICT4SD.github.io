@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Climate Land Energy Water Strategies"
-subtitle:   "Optimization Tools"
-repository: "CLEWS_software"
+title:      "Tools for Climate Land Energy Water Strategies"
+subtitle:   "Modelling and simulation tools for integrated analysis of the interlinkages between climate, land, materials, energy and water in our planet."
+repository: "Tools4CLEWS"
 date:       2016-09-24 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 
