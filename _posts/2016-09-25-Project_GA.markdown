@@ -20,10 +20,9 @@ Data sources
 
 This project relies on these data sources:
 
+- The [Official UN documents](https://search.un.org)
 
-- Official UN documents are accessible at: https://search.un.org
-
-- The GA voting records are available at: http://unbisnet.un.org:8080/ipac20/ipac.jsp?profile=voting
+- The [GA voting records](http://unbisnet.un.org:8080/ipac20/ipac.jsp?profile=voting)
 
 
 Project Team
