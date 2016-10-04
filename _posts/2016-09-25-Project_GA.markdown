@@ -7,12 +7,15 @@ date:       2016-09-20 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 
 ---
+Project Objective
+------------
 
 This project analyses text from thousands of UN official documents as well as GA voting records seeking for clusters by topics, voting similarity, etc. The project seeks to provide answers to these questions:
 
 - What are the characteristics of General Assembly (GA) documents?
 
 - How are they adopted by UN Member States?
+
 
 
 Project Team
