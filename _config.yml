@@ -1,0 +1,25 @@
+# Site settings
+title: "#ICT4SDG"
+header-img: img/home-bg.jpg
+email: uniteideas@un.org
+copyright_name: Information and Communications Technology for the Sustainable Development Goals - Unite Open Source
+description: "A project of Unite Open Source."
+baseurl: ""
+url: "https://ict4sdg.github.io"
+twitter_username: 
+github_username:  ict4sdg
+facebook_username:  
+email_username:  uniteideas@un.org
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 20
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
