@@ -1,5 +1,6 @@
 ---
 layout:     post
+header-img: "img/un-view.jpg"
 title:      "UN General Assembly Resolutions and Voting Patterns"
 subtitle:   "Textual Analytics and Visualization of the United Nations General Assembly Resolutions"
 repository: "UN-General-Assembly-Resolutions-and-Voting-Patterns"
