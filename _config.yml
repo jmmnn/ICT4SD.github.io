@@ -1,13 +1,13 @@
 # Site settings
-title: "#ICT4SDG"
+title: "ICT for Sustainable Development"
 header-img: img/land.jpg
 email: uniteideas@un.org
-copyright_name: Information and Communications Technology for the Sustainable Development Goals - Unite Open Source
+copyright_name: Information and Communications Technology for the Sustainable Development - Unite Open Source
 description: "A project of Unite Open Source."
 baseurl: ""
-url: "https://ict4sdg.github.io"
+url: "https://ict4sd.github.io"
 twitter_username: 
-github_username:  ict4sdg
+github_username:  ict4sd
 facebook_username:  
 email_username:  uniteideas@un.org
 
