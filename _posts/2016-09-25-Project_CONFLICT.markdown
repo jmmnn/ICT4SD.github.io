@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: 
+header-img: "img/conflict.jpg"
 title:      "Armed Conflict Analytics"
 subtitle:   "Historical data analytics of armed conflicts worldwide."
 repository: "ArmedConflict"
