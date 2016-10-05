@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Information and Communications Technology for the Sustainable Development Goals - a project of Unite Open Source."
+description: "Information and Communications Technology for Sustainable Development - a project of Unite Open Source."
 
 ---
 In 2015, more than 190 world leaders committed to 17 [Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) (SDG) to end extreme poverty, fight inequality, injustice, climate change, and other critical issues affecting humanity.
@@ -34,4 +34,4 @@ If you would like to collaborate with like-minded people to build a more equitab
 <a href="https://unite.un.org/opensource">
     <img src="{{ site.baseurl }}/img/opensource_web_banner.jpg" alt="Unite Open Source">
 </a>
-<span class="caption text-muted">The ICT4SGD website is a project of Unite Open Source, an initiative of the UN Office of Information and Communications Technology.</span>
+<span class="caption text-muted">The ICT4SG website is a project of Unite Open Source, an initiative of the UN Office of Information and Communications Technology.</span>
