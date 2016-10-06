@@ -1,31 +1,47 @@
 ---
 layout: page
 title: "About"
-description: "Information and Communications Technology for Sustainable Development - a project of Unite Open Source."
+description: "Information and Communications Technology for Sustainable Development."
 
 ---
-In 2015, more than 190 world leaders committed to 17 [Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) (SDG) to end extreme poverty, fight inequality, injustice, climate change, and other critical issues affecting humanity.
+In 2015, at the United Nations, more than 190 world leaders committed to 17 [Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) (SDG) to end extreme poverty, fight inequality, injustice, climate change, and other critical issues affecting humanity.
 
-The United Nations Office of Information and Communications Technology promotes collaboration between Academia, private sector, civil society, and governments to use open data and build open source software for the implementation of the SDGs.
+This initiative promotes collaboration between Academia, private sector, civil society, and governments to use open data and build open source software for the implementation of the United Nations Sustainable Development Goals.
+
+If you would like to contribute please see below:
+
 
 Are you from Academia?
 ----------------------
 
-Faculty, graduate (master’s degree) and doctoral students are invited to join this programme individually or in teams.
+Faculty, graduate (master’s degree) and doctoral students are invited to become part of a team or lead a project.
 
-Are you a data provider?
-----------------------
+	- If the project is already started, you can contact the project lead to join that team. 
+	- If the project is in the inception phase you can contact us below to start a new team.
 
-If you have open data which you would like to make available and believe can be used to implement the SDGs, we would like to hear from you.
 
 Do you want to start a new project?
 ----------------------
 
-If you have an idea to use ICT to implement the SDGs and need help getting started, we would like to hear from you!
+If you have an idea to use ICT to implement the SDGs we can help you initiate a project if you meet these criteria:
+
+	- You are faculty, graduate (master’s degree) or doctoral student at an academic institution.
+	- You work for an entity of the United Nations system.
+	- You work for an international organization.
+	- You work for a government of a United Nations Member State.
+	- You work for a Non Governmental Organization.
+
+
+Are you a data provider?
+----------------------
+
+If you have open data which you would like to make available and believe can be used to implement the SDGs, please contact us.
+
+
 
 <hr>
 
-If you would like to collaborate with like-minded people to build a more equitable, prosperous, and sustainable world.
+If you would like to collaborate with like-minded people to build a more equitable and sustainable world, and meet the criteria above, please contact us:
 
 <a class="btn btn-default" href="https://unite.un.org/ideas/contact" role="button">CONTACT US</a>
 
@@ -34,4 +50,4 @@ If you would like to collaborate with like-minded people to build a more equitab
 <a href="https://unite.un.org/opensource">
     <img src="{{ site.baseurl }}/img/opensource_web_banner.jpg" alt="Unite Open Source">
 </a>
-<span class="caption text-muted">The ICT4SG website is a project of Unite Open Source, an initiative of the UN Office of Information and Communications Technology.</span>
+<span class="caption text-muted">The ICT4SG website is an innovation project started through the Unite Open Source initiative of the UN Office of Information and Communications Technology.</span>
