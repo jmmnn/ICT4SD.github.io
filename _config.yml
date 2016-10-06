@@ -1,7 +1,7 @@
 # Site settings
 title: "ICT for Sustainable Development"
 header-img: img/land.jpg
-email: uniteideas@un.org
+email: 
 copyright_name: Information and Communications Technology for the Sustainable Development
 description: "A project of Unite Open Source."
 baseurl: ""
@@ -9,7 +9,7 @@ url: "https://ict4sd.github.io"
 twitter_username: 
 github_username:  ict4sd
 facebook_username:  
-email_username:  uniteideas@un.org
+email_username:  
 site_disclaimer: "The designations employed in this site and all the materials presented in it do not imply the expression of any opinions whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries."
 
 # Google Analytics
