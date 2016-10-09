@@ -8,6 +8,11 @@ In 2015, at the United Nations, more than 190 world leaders committed to 17 [Sus
 
 This initiative promotes collaboration between Academia, private sector, civil society, and governments to use open data and build open source software for the implementation of the United Nations Sustainable Development Goals.
 
+<a href="https://unite.un.org/opensource">
+    <img src="{{ site.baseurl }}/img/E_Logo_No UN Emblem-01.png" alt="Unite Open Source">
+</a>
+<span class="caption text-muted">ICT4SD supports the Sustainable Development Goals.</span>
+
 If you would like to contribute please see below:
 
 
