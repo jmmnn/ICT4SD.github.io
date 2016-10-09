@@ -14,7 +14,8 @@ This initiative promotes collaboration between Academia, private sector, civil s
 <span class="caption text-muted">ICT4SD supports the Sustainable Development Goals.</span>
 
 
-#If you would like to join please see below:
+
+If you would like to join please see below:
 
 
 Are you from Academia?
