@@ -6,17 +6,18 @@ description: "Information and Communications Technology for Sustainable Developm
 ---
 In 2015, at the United Nations, more than 190 world leaders committed to 17 [Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) (SDG) to end extreme poverty, fight inequality, injustice, climate change, and other critical issues affecting humanity.
 
-This initiative promotes collaboration between Academia, private sector, civil society, and governments to use open data and build open source software for the implementation of the United Nations Sustainable Development Goals.
+This initiative promotes collaboration between Academia, private sector, civil society, and governments to use open data and build open source software for the implementation of the Sustainable Development Goals.
 
 <a href="http://www.un.org/sustainabledevelopment">
-    <img src="{{ site.baseurl }}/img/E_Logo_No UN Emblem-01.png" alt="Unite Open Source">
+    <img src="{{ site.baseurl }}/img/E_2016_SDG_Poster_all_sizes_without_UN_emblem_Letter.png" alt="SDG poster">
 </a>
 <span class="caption text-muted">ICT4SD supports the Sustainable Development Goals.</span>
 
 
 
 If you would like to join please see below:
-
+-------------------------------------------
+-------------------------------------------
 
 Are you from Academia?
 ----------------------
