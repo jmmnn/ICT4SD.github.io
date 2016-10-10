@@ -6,6 +6,7 @@ subtitle:   "Historical data analytics of armed conflicts worldwide."
 repository: "ArmedConflict"
 date:       2016-09-20 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+goal:		16
 
 ---
 Project Objective

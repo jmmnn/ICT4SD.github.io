@@ -6,6 +6,7 @@ subtitle:   "Textual Analytics and Visualization of the United Nations General A
 repository: "UN-General-Assembly-Resolutions-and-Voting-Patterns"
 date:       2016-09-20 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+goal:		16
 
 ---
 Project Objective
