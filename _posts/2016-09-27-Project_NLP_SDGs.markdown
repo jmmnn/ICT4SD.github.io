@@ -12,13 +12,16 @@ goal:		18
 Project Objective
 ------------
 
-This project seeks solutions to analyze hundreds of thousands or millions of documents (e.g. academic papers) to measure the aggregated opinions of thousands of researchers over time regarding the interlinkages between the sustainable development goals (e.g. education affects health; urbanization affects economic growth, etc.). 
+This project seeks solutions to analyze hundreds of thousands or millions of documents (e.g. academic papers and other sources) to measure the aggregated opinions of thousands of researchers over time regarding the interlinkages between the sustainable development goals (e.g. education affects health; urbanization affects economic growth, etc.). 
 
-See similar work: https://unite.un.org/ideas/content/linkssdgs-natural-language-processing-and-data-visualization-challenge
+Similar work
+------------
+
+- [Unite Ideas #LinksSDGs Challenge](https://unite.un.org/ideas/content/linkssdgs-natural-language-processing-and-data-visualization-challenge)
 
 
 Project Team
 ------------
 
 
-** The project is currently open for partners.
+** The project is seeking a leading partner.
