@@ -6,7 +6,7 @@ subtitle:   "Build a searchable collection of science and technology knowledge u
 repository: "Science&Technology_Search"
 date:       2016-09-21 11:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
-goal:		9
+goal:		09
 
 ---
 Project Objective
