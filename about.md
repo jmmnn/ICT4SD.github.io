@@ -50,7 +50,7 @@ If you have open data which you would like to make available and believe can be 
 
 If you would like to collaborate with like-minded people to build a more equitable and sustainable world, and meet the criteria above, please contact us:
 
-<a class="btn btn-default" href="https://unite.un.org/ideas/contact" role="button">CONTACT US</a>
+<a class="btn btn-default" href="https://goo.gl/forms/ZRHBINCkvp1aK0q23" role="button">CONTACT US</a>
 
 <hr>
 
