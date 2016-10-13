@@ -14,7 +14,7 @@ site_disclaimer: "The designations employed in this site and all the materials p
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-85635646-1
 
 # Build settings
 markdown: kramdown
