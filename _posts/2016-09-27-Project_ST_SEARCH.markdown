@@ -3,7 +3,7 @@ layout:     post
 header-img: "img/st_search.png"
 title:      "Science & Technology Search Engine for Sustainable Development"
 subtitle:   "Build a searchable collection of science and technology knowledge useful to implement the SDGs."
-repository: "Science&Technology_Search"
+repository: "Science_Technology_Search"
 date:       2016-09-21 11:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		09
