@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: "img/NLP_SDGs.png"
+header-img: "img/st_search.png"
 title:      "Science & Technology Search Engine for Sustainable Development"
 subtitle:   "Build a searchable collection of science and technology knowledge useful to implement the SDGs."
 repository: "Science&Technology_Search"
