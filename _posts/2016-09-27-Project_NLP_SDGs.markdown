@@ -6,7 +6,7 @@ subtitle:   "Analyze thousands or millions of documents to discover relationship
 repository: "NLP_SDGs"
 date:       2016-09-27 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
-goal:		    "01"
+goal:		    "18"
 
 ---
 Project Objective
