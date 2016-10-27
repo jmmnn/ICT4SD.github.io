@@ -21,11 +21,14 @@ Unlike the leading search engines in the market which seek to aggregate as much 
 Useful resources
 ------------
 
-- [Internet Common Crawl](http://commoncrawl.org/), an open repository of web crawl data that can be accessed and analyzed by anyone.
-
+- [Common Crawl](http://commoncrawl.org/), an open dataset of web crawl data that can be accessed and analyzed by anyone.
+- [Common Search](https://about.commonsearch.org/), a nonprofit search engine for the Web.
+- [Spyglass](https://github.com/o19s/spyglass), a simple search results front-end for Apache Solr using EmberJS.
 
 Project Team
 ------------
 
+**Ms. Sara Crouse — Common Crawl Foundation**
 
-** The project is seeking a leading partner.
+Director
+
