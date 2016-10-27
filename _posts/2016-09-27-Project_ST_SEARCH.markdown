@@ -35,4 +35,5 @@ Director
 
 We are actively seeking partners for:
 > Text Analytics and 
+
 > Web front-end development
