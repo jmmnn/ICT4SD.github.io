@@ -11,12 +11,12 @@ goal:		09
 ---
 Project Objective
 ------------
-
 This project aims to use machine-based classification of text to build a searchable repository of papers, websites, training materials, and other useful knowledge for sustainable development. 
 
 This search engine will include content from across the Internet originating from credible organizations from academia, governments and private companies.
 
 Unlike the leading search engines in the market which seek to aggregate as much content as possible, this one aims to provide a machine-curated result set from reputable sources.
+
 
 Useful resources
 ------------
@@ -32,3 +32,7 @@ Project Team
 
 Director
 
+
+We are actively seeking partners for:
+> Text Analytics and 
+> Web front-end development
