@@ -28,7 +28,7 @@ Project Team
 ------------
 
 <a href="http://www.infoseeking.org/">
-    <img src="{{ site.baseurl }}/img/rutgers_infoseeking_logo.png" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/partners/rutgers.png" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">The InfoSeeking Lab at the School of Communication & Information - Rutgers University</span>
 
