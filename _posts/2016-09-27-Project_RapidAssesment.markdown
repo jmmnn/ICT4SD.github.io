@@ -17,11 +17,14 @@ This project seeks solutions to develop a tool for rapid assement of national do
 Applications
 ------------
 
-- This project will result on web applications to accelerate the delivery of work done by international agencies for development such as UNDP. For instance, the Rapid Integrated Assement studies being carried out in more than 40 countries by UNDP in the next year, see for example [RAPID INTEGRATED ASSESSMENT – BHUTAN SDG PROFILE] (https://undg.org/wp-content/uploads/2016/06/RIA_Bhutan_Key_Observations-18.12.2015.pdf)
+This project will result on web applications to accelerate the delivery of work done by international agencies for development such as UNDP. For instance, the Rapid Integrated Assement studies being carried out in more than 40 countries by UNDP in the next year, see for example:
+
+[RAPID INTEGRATED ASSESSMENT – BHUTAN SDG PROFILE] (https://undg.org/wp-content/uploads/2016/06/RIA_Bhutan_Key_Observations-18.12.2015.pdf)
 
 
 Project Team
 ------------
 
+This team includes staff members of the United Nations Development Programme who provide background and detailed information about their methods for rapid integrated assesments.
 
-** The project is seeking a leading partner.
+The project is seeking a partner for implementing text analytics and machine-learning techniques for automation of these documentary assesments.
