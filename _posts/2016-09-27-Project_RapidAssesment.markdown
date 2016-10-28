@@ -19,7 +19,7 @@ Applications
 
 This project will result on web applications to accelerate the delivery of work done by international agencies for development such as UNDP. For instance, the Rapid Integrated Assement studies being carried out in more than 40 countries by UNDP in the next year, see for example:
 
-[RAPID INTEGRATED ASSESSMENT – BHUTAN SDG PROFILE] (https://undg.org/wp-content/uploads/2016/06/RIA_Bhutan_Key_Observations-18.12.2015.pdf)
+[RAPID INTEGRATED ASSESSMENT – BHUTAN SDG PROFILE](https://undg.org/wp-content/uploads/2016/06/RIA_Bhutan_Key_Observations-18.12.2015.pdf)
 
 
 Project Team
