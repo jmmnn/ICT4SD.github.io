@@ -28,13 +28,19 @@ Useful resources
 Project Team
 ------------
 
-**Ms. Sara Crouse — Common Crawl Foundation**
-
+##Data acquisition
+**Ms. Sara Crouse — Common Crawl Foundation**  
 Director
 
+##Data Analytics
+[![Fordham University’s Center for Digital Transformation]({{ site.url }}/img/partners/fordham.png)](http://fordhamcdt.org)
 
-We are actively seeking partners for:
+**Dr. W. "R.P." Raghupathih - Fordham University**  
+Professor of Information Systems  
+Director, MS in Business Analytics Program  
+Director, Center for Digital Transformation  
+Gabelli School of Business
 
-> Text Analytics and 
+##We are actively seeking partners for:
 
 > Web front-end development

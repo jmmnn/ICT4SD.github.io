@@ -23,33 +23,21 @@ This project analyses text from thousands of UN official documents as well as GA
 Project Team
 ------------
 
-<a href="http://www.infoseeking.org/">
-    <img src="{{ site.baseurl }}/img/rutgers_infoseeking_logo.png" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">The InfoSeeking Lab at the School of Communication & Information - Rutgers University</span>
+[![The InfoSeeking Lab at the School of Communication & Information - Rutgers University]({{ site.url }}/img/partners/rutgers.png)](http://www.infoseeking.org/)
 
-
-**Dr. Chirag Shah - Rutgers University**
-
-Associate Professor of Information Science
-
+**Dr. Chirag Shah - Rutgers University**  
+Associate Professor of Information Science  
 Affiliate member of Computer Science
 
 
-
-**Soumik Mandal - Rutgers University**
-
+**Soumik Mandal - Rutgers University**  
 PhD student - Information Science
 
 
-
-**Jonathan Pulliza - Rutgers University**
-
+**Jonathan Pulliza - Rutgers University**  
 PhD student - Information Science
 
 
-
-**Kevin Albertson - Rutgers University**
-
+**Kevin Albertson - Rutgers University**  
 Master's student - Computer Science and Mathematics
 
