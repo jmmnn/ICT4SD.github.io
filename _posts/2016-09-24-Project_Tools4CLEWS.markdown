@@ -27,39 +27,25 @@ A theoretical framework for this project was developed by the UN Department of E
 Project Team
 ------------
 
-<a href="http://www.infoseeking.org/">
-    <img src="{{ site.baseurl }}/img/partners/rutgers.png" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">The InfoSeeking Lab at the School of Communication & Information - Rutgers University</span>
+[![The InfoSeeking Lab at the School of Communication & Information - Rutgers University]({{ site.url }}/img/partners/rutgers.png)](http://www.infoseeking.org/)
 
-
-**Dr. Chirag Shah - Rutgers University**
-
-Associate Professor of Information Science
-
+**Dr. Chirag Shah - Rutgers University**  
+Associate Professor of Information Science  
 Affiliate member of Computer Science
 
 
-
-**Souvick Ghosh - Rutgers University**
-
+**Souvick Ghosh - Rutgers University**  
 PhD student - Information Science
 
 
-
-**Jiqun Liu - Rutgers University**
-
+**Jiqun Liu - Rutgers University**  
 PhD student - Information Science
 
 
-
-**SeoYoon Sung - Rutgers University**
-
+**SeoYoon Sung - Rutgers University**  
 PhD student - Information Science
 
 
-
-**Yiwei Wang - Rutgers University**
-
+**Yiwei Wang - Rutgers University**  
 PhD student - Information Science
 
