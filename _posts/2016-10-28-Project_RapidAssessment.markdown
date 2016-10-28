@@ -28,9 +28,9 @@ However, the desk review of the documentation to prepare an integrated multi-sec
 
 Project Team
 ------------
+[![Fordham University’s Center for Digital Transformation]({{ site.baseurl }}/img/partners/fordham.png" alt="Fordham")](http://fordhamcdt.org)
 
-**Dr. W. "R.P." Raghupathih - Fordham University**
-
+**Dr. W. "R.P." Raghupathih - Fordham University**  
 Professor of Information Systems  
 Director, MS in Business Analytics Program  
 Director, Center for Digital Transformation  
