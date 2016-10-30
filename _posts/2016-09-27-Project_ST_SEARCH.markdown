@@ -7,11 +7,12 @@ repository: "Science_Technology_Search"
 date:       2016-09-21 11:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		09
+partners:   "Fordham University, Center for Digital Transformation"
 
 ---
 Project Objective
 ------------
-This project aims to use machine-based classification of text to build a searchable repository of papers, websites, training materials, and other useful knowledge for sustainable development. 
+This project aims to use machine-based classification of text to build a searchable repository of papers, websites, training materials, and other useful knowledge for sustainable development.
 
 This search engine will include content from across the Internet originating from credible organizations from academia, governments and private companies.
 
