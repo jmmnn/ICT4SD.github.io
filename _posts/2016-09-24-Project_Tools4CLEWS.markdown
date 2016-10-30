@@ -7,12 +7,12 @@ repository: "Tools4CLEWS"
 date:       2016-09-24 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		13
-
+partners:   "Rutgers University, InfoSeeking Lab"
 ---
 Project Objective
 ------------
 
-This project aims to promote the design of software tools for modelling and simulation of scenarios to see the interactions between climate-change, land usage, and water usage overtime to assist policy planners. 
+This project aims to promote the design of software tools for modelling and simulation of scenarios to see the interactions between climate-change, land usage, and water usage overtime to assist policy planners.
 
 
 References
@@ -48,4 +48,3 @@ PhD student - Information Science
 
 **Yiwei Wang - Rutgers University**  
 PhD student - Information Science
-
