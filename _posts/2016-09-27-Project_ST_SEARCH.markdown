@@ -9,6 +9,7 @@ author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		09
 partners:   
   - partner: "Fordham University, Center for Digital Transformation"
+  - partner: "Common Crawl Foundation"
 
 ---
 Project Objective
