@@ -38,7 +38,7 @@ Director Common Crawl Foundation
 ### Data Analytics
 [![Fordham University’s Center for Digital Transformation]({{ site.url }}/img/partners/fordham.png)](http://fordhamcdt.org)
 
-**Dr. W. "R.P." Raghupathih - Fordham University**  
+**W. "RP" Raghupathi, Ph.D- Fordham University**  
 Professor of Information Systems  
 Director, MS in Business Analytics Program  
 Director, Center for Digital Transformation  
