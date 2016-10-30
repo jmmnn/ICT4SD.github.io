@@ -30,8 +30,13 @@ description: "A platform to start or join open source software projects for the 
     <!-- <p class="post-meta"> -->
     <p>
       {% if post.partners %}
-      Partners: {{ post.partners }}{% else %}
-      Looking for partners {% endif %}
+      Partners:<br>
+        {% for each in post.partners %}
+        <strong>{{ each.partner}}</strong><br>
+        {% endfor %}
+        {% else %}
+        <strong>Looking for partners</strong>
+      {% endif %}
     </p>
 
     {% if post.goal %}

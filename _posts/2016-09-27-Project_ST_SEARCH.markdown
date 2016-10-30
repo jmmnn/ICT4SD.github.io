@@ -7,7 +7,8 @@ repository: "Science_Technology_Search"
 date:       2016-09-21 11:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		09
-partners:   "Fordham University, Center for Digital Transformation"
+partners:   
+  - partner: "Fordham University, Center for Digital Transformation"
 
 ---
 Project Objective

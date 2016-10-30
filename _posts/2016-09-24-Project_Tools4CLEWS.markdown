@@ -7,7 +7,9 @@ repository: "Tools4CLEWS"
 date:       2016-09-24 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		13
-partners:   "Rutgers University, InfoSeeking Lab"
+partners:   
+  - partner: "Rutgers University, InfoSeeking Lab"
+
 ---
 Project Objective
 ------------
