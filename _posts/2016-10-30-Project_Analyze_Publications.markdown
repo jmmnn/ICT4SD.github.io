@@ -21,6 +21,10 @@ This project will result on a web application enabling search and visualization 
 
 The tool will also add metadata to individual sentences to tag them as "policy recommendations", "barriers or challenges", "causality" (when a sentence mentions a cause - effect relation). Sentences should also be tagged by the Sustainable Development Goal they refer to.
 
+1st deliverable
+---------------
+As a first objective, this project will focus on doing the analysis for the publications of the Department of Economic and Social Affairs.
+
 See a similar project here:
 [Unite Ideas #LinksSDGs](https://unite.un.org/ideas/content/linkssdgs-natural-language-processing-and-data-visualization-challenge)
 
