@@ -25,7 +25,7 @@ This project will result on web applications to accelerate the delivery of count
 
 [Mauritania:](https://undg.org/main/undg_document/mauritania-demonstrating-early-efforts-to-mainstream-sdgs-within-a-new-nat/) Early efforts to mainstream SDGs within a new national development strategy.
 
-However, the desk review of the documentation to prepare an integrated multi-sectoral assessment is lenghty, taking away valuable time for analysis. Ideally, the tools developed through thsi project will make the national documents easy to search by develompent topic and to provide a machine-based initial assessment of the alignment with the SDG targets.
+However, the desk review of the documentation to prepare an integrated multi-sectoral assessment is lengthy, taking away valuable time for analysis. Ideally, the tools developed through this project will make the national documents easy to search by development topic and to provide a machine-based initial assessment of the alignment with the SDG targets.
 
 Project Team
 ------------
