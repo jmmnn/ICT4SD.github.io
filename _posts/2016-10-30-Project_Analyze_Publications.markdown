@@ -8,7 +8,6 @@ date:       2016-10-30 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		    "18"
 partners:   
-  - partner:
 ---
 Project Objective
 --------------
