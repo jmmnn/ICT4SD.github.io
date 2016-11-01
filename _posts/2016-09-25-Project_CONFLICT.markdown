@@ -2,7 +2,7 @@
 layout:     post
 header-img: "img/conflict.jpg"
 title:      "Armed Conflict Analytics"
-subtitle:   "Historical data analytics of armed conflicts worldwide."
+subtitle:   "Historical data analytics of armed conflicts worldwide to better understand their characteristics and find patterns in causes and solutions."
 repository: "ArmedConflict"
 date:       2016-09-20 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
