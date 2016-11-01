@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: "img/NLP_SDGs.png"
+header-img: "img/rapid.jpg"
 title:      "Rapid Assessment of national planning documents using machine-based text analysis"
 subtitle:   "Analyze legislation and development plans in countries worldwide to reveal their alignment with the SDG targets."
 repository: "Rapid_Assessment_Tools"

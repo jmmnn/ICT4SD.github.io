@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: "img/NLP_SDGs.png"
+header-img: "img/publications.jpg"
 title:      "Text Analytics of United Nations Publications"
 subtitle:   "Analyze thousands of pages to discover changing topics, challenges, and policy recommendations in more than four decades of United Nations research."
 repository: "Analyze_Publications"
