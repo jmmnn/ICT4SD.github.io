@@ -8,7 +8,7 @@ date:       2016-10-28 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		    "18"
 partners:   
-  - partner: "Fordham University, Center for Digital Transformation"
+  - partner: "Fordham University - Center for Digital Transformation"
 
 ---
 Project Objective

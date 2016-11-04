@@ -8,7 +8,7 @@ date:       2016-09-24 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		13
 partners:   
-  - partner: "Rutgers University, InfoSeeking Lab"
+  - partner: "Rutgers University - InfoSeeking Lab"
 
 ---
 Project Objective
