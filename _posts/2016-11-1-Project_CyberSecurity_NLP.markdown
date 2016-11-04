@@ -7,7 +7,8 @@ repository: "CyberSecurity_Strategies"
 date:       2016-11-1 12:00:00
 author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
 goal:		    "08"
-partners:   
+partners:
+  - partner: "Fordham University - Center for Digital Transformation"
 ---
 Project Objective
 --------------
