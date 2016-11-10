@@ -10,7 +10,7 @@ goal:		09
 partners:   
   - partner: "Fordham University - Center for Digital Transformation"
   - partner: "Common Crawl Foundation"
-  - partner: "Universidad de Santiago de Chile - INTERACTION"
+  - partner: "Universidad de Santiago de Chile - InTEracTIon"
 ---
 Project Objective
 ------------
@@ -59,3 +59,7 @@ Gabelli School of Business
 Assistant Professor  
 Departamento de Ingeniería Informática  
 Universidad de Santiago de Chile  
+
+
+**Carolina Vásquez**  
+Master's Computer Engineering - Ingeniería Civil Informática
