@@ -10,7 +10,7 @@ goal:		09
 partners:   
   - partner: "Fordham University - Center for Digital Transformation"
   - partner: "Common Crawl Foundation"
-  - partner: "Universidad de Santiago de Chile"
+  - partner: "Universidad de Santiago de Chile - INTERACTION"
 ---
 Project Objective
 ------------
@@ -45,6 +45,8 @@ Director, Center for Digital Transformation
 Gabelli School of Business
 
 ### Front-end web development
+[![Universidad de Santiago de Chile Departamento de Ingeniería Informática]({{ site.url }}/img/partners/santiago.jpg)](http://interaction.informatica.usach.cl/)
+
 **Roberto González Ibáñez, PhD**  
 Assistant Professor
 Departamento de Ingeniería Informática
