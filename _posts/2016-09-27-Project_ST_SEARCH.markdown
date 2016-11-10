@@ -32,8 +32,15 @@ Project Team
 ------------
 
 ### Data acquisition
+[![Common Crawl Foundation]({{ site.url }}/img/partners/commoncrawl.png)](http://commoncrawl.org/)
+
 **Ms. Sara Crouse — Common Crawl Foundation**  
 Director Common Crawl Foundation
+
+
+**Sebastian Nagel**  
+Crawl Engineer & Data Scientist
+
 
 ### Data Analytics
 [![Fordham University’s Center for Digital Transformation]({{ site.url }}/img/partners/fordham.png)](http://fordhamcdt.org)
@@ -44,10 +51,11 @@ Director, MS in Business Analytics Program
 Director, Center for Digital Transformation  
 Gabelli School of Business
 
+
 ### Front-end web development
 [![Universidad de Santiago de Chile Departamento de Ingeniería Informática]({{ site.url }}/img/partners/santiago.jpg)](http://interaction.informatica.usach.cl/)
 
 **Roberto González Ibáñez, PhD**  
-Assistant Professor
-Departamento de Ingeniería Informática
-Universidad de Santiago de Chile
+Assistant Professor  
+Departamento de Ingeniería Informática  
+Universidad de Santiago de Chile  
