@@ -41,6 +41,14 @@ See a similar project here:
 Project Team
 ------------
 
-**The project is seeking a data analytics and visualization partner.
+### Data Analytics
+[![Fordham University’s Center for Digital Transformation]({{ site.url }}/img/partners/fordham.png)](http://fordhamcdt.org)
+
+**W. "RP" Raghupathi, Ph.D- Fordham University**  
+Professor of Information Systems  
+Director, MS in Business Analytics Program  
+Director, Center for Digital Transformation  
+Gabelli School of Business
+
 
 **This team is advised by staff members from the International Telecommunications Union and the United Nations Office of Information Technology who provide background as well as detailed information on the expected work and objectives.**
