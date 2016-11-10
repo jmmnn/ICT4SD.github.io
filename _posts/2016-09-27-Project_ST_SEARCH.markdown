@@ -10,7 +10,7 @@ goal:		09
 partners:   
   - partner: "Fordham University - Center for Digital Transformation"
   - partner: "Common Crawl Foundation"
-
+  - partner: "Universidad de Santiago de Chile"
 ---
 Project Objective
 ------------
@@ -44,6 +44,8 @@ Director, MS in Business Analytics Program
 Director, Center for Digital Transformation  
 Gabelli School of Business
 
-### We are actively seeking partners for:
-
-- Web front-end development
+### Front-end web development
+**Roberto González Ibáñez, PhD**  
+Assistant Professor
+Departamento de Ingeniería Informática
+Universidad de Santiago de Chile
