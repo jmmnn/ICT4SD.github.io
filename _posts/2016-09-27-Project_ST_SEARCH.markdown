@@ -62,4 +62,4 @@ Universidad de Santiago de Chile
 
 
 **Carolina Vásquez**  
-Master's Computer Engineering - Ingeniería Civil Informática
+Computer Engineering Student - Estudiante de Ingeniería Civil Informática

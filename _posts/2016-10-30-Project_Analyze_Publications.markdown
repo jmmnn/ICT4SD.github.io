@@ -54,4 +54,4 @@ Project Team
 
 **The project is seeking a data analytics and visualization partner.**
 
-**This team is advised by staff members from the United Nations Secretariat who provide background as well as detailed information on the expected work and objectives.**
+**This team is advised by staff members from the United Nations Department of Economic and Social Affairs who provide background as well as detailed information on the expected work and objectives.**
