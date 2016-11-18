@@ -5,7 +5,7 @@ title:      "Global Terrorism Analysis"
 subtitle:   "An interactive system for visual analysis of global terrorism."
 repository: "Terrorism_Analysis"
 date:       2016-11-10 12:00:00
-author:     "Xianzhi (Viola) Cao, UN-OICT Analytics"
+author:     "UN-OICT Analytics"
 goal:		     "16"
 partners:
   - partner: "New York University - Center for Data Science"

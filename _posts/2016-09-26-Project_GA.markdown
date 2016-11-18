@@ -5,7 +5,7 @@ title:      "UN General Assembly Resolutions and Voting Patterns"
 subtitle:   "Textual Analytics and Visualization of the United Nations General Assembly Resolutions"
 repository: "UN-General-Assembly-Resolutions-and-Voting-Patterns"
 date:       2016-09-20 12:00:00
-author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+author:     "UN-OICT Analytics"
 goal:		16
 partners:   
   - partner: "Rutgers University - InfoSeeking Lab"

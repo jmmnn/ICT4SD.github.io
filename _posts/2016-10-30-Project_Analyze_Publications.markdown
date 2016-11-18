@@ -5,7 +5,7 @@ title:      "Text Analytics of United Nations Publications"
 subtitle:   "Analyze thousands of pages to discover changing topics, challenges, and policy recommendations in more than four decades of United Nations research."
 repository: "Analyze_Publications"
 date:       2016-10-30 12:00:00
-author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+author:     "UN-OICT Analytics"
 goal:		    "18"
 partners:   
 ---

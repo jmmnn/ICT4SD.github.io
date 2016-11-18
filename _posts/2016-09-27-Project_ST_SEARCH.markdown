@@ -5,7 +5,7 @@ title:      "Science & Technology Search Engine for Sustainable Development"
 subtitle:   "Build a searchable collection of science and technology knowledge useful to implement the SDGs."
 repository: "Science_Technology_Search"
 date:       2016-09-21 11:00:00
-author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+author:     "UN-OICT Analytics"
 goal:		09
 partners:   
   - partner: "Fordham University - Center for Digital Transformation"

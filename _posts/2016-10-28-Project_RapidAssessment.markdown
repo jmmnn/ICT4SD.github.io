@@ -5,7 +5,7 @@ title:      "Rapid Assessment of national planning documents using machine-based
 subtitle:   "Analyze legislation and development plans in countries worldwide to reveal their alignment with the SDG targets."
 repository: "Rapid_Assessment_Tools"
 date:       2016-10-28 12:00:00
-author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+author:     "UN-OICT Analytics"
 goal:		    "18"
 partners:   
   - partner: "Fordham University - Center for Digital Transformation"

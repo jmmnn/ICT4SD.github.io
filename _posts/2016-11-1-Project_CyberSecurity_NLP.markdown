@@ -5,7 +5,7 @@ title:      "Machine-based Text Analytics of CyberSecurity Strategies"
 subtitle:   "Analyze and visualize the text of CyberSecurity strategies of more than 70 countries to find commonalities, differences, and key characteristics."
 repository: "CyberSecurity_Strategies"
 date:       2016-11-1 12:00:00
-author:     "Jorge Martinez Navarrete, UN-OICT Analytics"
+author:     "UN-OICT Analytics"
 goal:		    "08"
 partners:
   - partner: "Fordham University - Center for Digital Transformation"
