@@ -6,13 +6,13 @@ subtitle:   "Wearable computers, sensors, and big data to measure women's paid a
 repository: "Quantify_Women_Work"
 date:       2016-11-18 11:00:00
 author:     "UN-OICT Analytics"
-goal:		05
+goal:		    "05"
 partners:   
 
 ---
 Project Objective
 ------------
-This project aims to implement a toolset and experimental methodologies for measuring precisely the daily activities of individual (volunteer) women. The project will design a "living lab" leveraging big-data originating from: 
+This project aims to implement a toolset and experimental methodologies for measuring precisely the daily activities of individual (volunteer) women. The project will design a "living lab" leveraging big-data originating from:
 
 - Wearable computers (watches, wearable chips, etc.)
 - Big Data resulting from mobile phone usage,
