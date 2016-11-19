@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: "img/st_search.jpg"
+header-img: "img/women_work.jpg"
 title:      "Women's Work : a living lab"
 subtitle:   "Wearable computers, sensors, and big data to measure women's paid and unpaid work in society."
 repository: "Quantify_Women_Work"
