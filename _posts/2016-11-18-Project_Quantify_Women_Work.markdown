@@ -28,7 +28,7 @@ Useful resources
 ------------
 
 - [European Network of Living Labs (ENoLL)](http://www.openlivinglabs.eu/), is the international federation of benchmarked Living Labs in Europe and worldwide
-- [Massachusetts Institute of Technology, Living Labs](MIT Living Labs )
+- [Massachusetts Institute of Technology, Living Labs](http://livinglabs.mit.edu/)
 
 
 
