@@ -8,7 +8,7 @@ date:       2016-11-21 11:00:00
 author:     "UN-OICT Analytics"
 goal:		    "17"
 partners:
-
+  - partner: "Lebanese American University"
 ---
 Project Objective
 ------------
@@ -36,4 +36,10 @@ Useful resources
 Project Team
 ------------
 
-**The project is seeking partners.**
+**Elie Samia**
+Faculty advisor
+Lebanese American University  
+
+**Ghina Harb**  
+Project Lead Coordinator  
+Lebanese American University  
