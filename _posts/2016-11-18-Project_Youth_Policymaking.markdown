@@ -23,7 +23,6 @@ The outcome of this project will include:
 - Software to streamline data collection (e.g. voting, documents, multimedia) at Model United Nations conferences worldwide.
 
 
-
 Useful resources
 ------------
 
