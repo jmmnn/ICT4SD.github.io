@@ -36,8 +36,8 @@ Useful resources
 Project Team
 ------------
 
-**Elie Samia**
-Faculty advisor
+**Elie Samia**  
+Faculty advisor  
 Lebanese American University  
 
 **Ghina Harb**  
