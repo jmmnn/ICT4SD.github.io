@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: "img/st_search.jpg"
+header-img: "img/land.jpg"
 title:      "Forestry Management Software"
 subtitle:   "Open Source Software for Forest Management."
 repository: "Forest_Management"
